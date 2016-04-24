@@ -5,11 +5,20 @@
 
 Welcome to qwteng的文档库's documentation!
 ==========================================
+.. |stub-icon| unicode:: U+1F527
 
-Contents:
+.. attention::
+    
+    本文档使用reST格式编写，内容托管于GitHub。文档内容正在持续编写中，所有标注为 |stub-icon| 的部分表示还未编写完毕，如果您在阅读中遇到问题，可以通过邮件 qwteng@qq.com 沟通。
+    
+
+内容
+----
 
 .. toctree::
    :maxdepth: 2
+
+   commonskills/index
 
 
 
