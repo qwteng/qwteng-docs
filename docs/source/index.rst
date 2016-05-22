@@ -19,6 +19,7 @@ Welcome to qwteng的文档库's documentation!
    :maxdepth: 2
 
    commonskills/index
+   software/index
 
 
 
