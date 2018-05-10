@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to qwteng的文档库's documentation!
+欢迎来到qwteng的知识库
 ==========================================
 .. |stub-icon| unicode:: U+1F527
 
